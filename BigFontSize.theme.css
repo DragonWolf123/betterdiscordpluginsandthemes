@@ -1,0 +1,17 @@
+/**
+ * @name BigFontSize
+ * @description Creating the Big font size
+ * @author DragonWolf
+ * @version 1.0.0
+ * @website https://dragonwolf.7m.pl
+ */
+
+head,
+body,
+div,
+p,
+form,
+span,
+br {
+	font-size: 18px;
+}
